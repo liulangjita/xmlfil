@@ -1,0 +1,7 @@
+E:\code\xmlFilter\xmlFilter\bin\Debug\xmlFilter.exe
+E:\code\xmlFilter\xmlFilter\bin\Debug\xmlFilter.pdb
+E:\code\xmlFilter\xmlFilter\obj\x86\Debug\xmlFilter.Form1.resources
+E:\code\xmlFilter\xmlFilter\obj\x86\Debug\xmlFilter.Properties.Resources.resources
+E:\code\xmlFilter\xmlFilter\obj\x86\Debug\xmlFilter.csproj.GenerateResource.Cache
+E:\code\xmlFilter\xmlFilter\obj\x86\Debug\xmlFilter.exe
+E:\code\xmlFilter\xmlFilter\obj\x86\Debug\xmlFilter.pdb

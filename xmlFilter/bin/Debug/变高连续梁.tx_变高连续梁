@@ -1,0 +1,762 @@
+<Entity class="ContinueBeamBGData" name="1" version="2.0">
+  <Form name="绘图设置" version="2.0">
+    <Para name="textBox45" value=" " />
+    <Para name="checkBox12" value="True" />
+    <Para name="textBoxRoad" value="&lt;Form name=&quot;&quot; version=&quot;2.0&quot;&gt;&lt;Para name=&quot;textBox24&quot; value=&quot; &quot; /&gt;&lt;Para name=&quot;textBox23&quot; value=&quot; &quot; /&gt;&lt;Para name=&quot;textBox22&quot; value=&quot; &quot; /&gt;&lt;Para name=&quot;textBox21&quot; value=&quot; &quot; /&gt;&lt;Para name=&quot;textBox2&quot; value=&quot;20&quot; /&gt;&lt;Para name=&quot;dataGridView1&quot; RowCount=&quot;1&quot; ColumnCount=&quot;6&quot;&gt;&lt;Cell RowIndex=&quot;0&quot; ColumnIndex=&quot;0&quot; CellValue=&quot;0&quot; /&gt;&lt;Cell RowIndex=&quot;0&quot; ColumnIndex=&quot;1&quot; CellValue=&quot;0&quot; /&gt;&lt;Cell RowIndex=&quot;0&quot; ColumnIndex=&quot;2&quot; CellValue=&quot;0&quot; /&gt;&lt;Cell RowIndex=&quot;0&quot; ColumnIndex=&quot;3&quot; CellValue=&quot;0&quot; /&gt;&lt;Cell RowIndex=&quot;0&quot; ColumnIndex=&quot;4&quot; CellValue=&quot;0&quot; /&gt;&lt;Cell RowIndex=&quot;0&quot; ColumnIndex=&quot;5&quot; CellValue=&quot;1000&quot; /&gt;&lt;/Para&gt;&lt;Para name=&quot;textBox8&quot; value=&quot; &quot; /&gt;&lt;Para name=&quot;textBoxPQXData&quot; value=&quot; &quot; /&gt;&lt;Para name=&quot;textBoxPQXFile&quot; value=&quot; &quot; /&gt;&lt;Para name=&quot;dataGridView4&quot; RowCount=&quot;1&quot; ColumnCount=&quot;3&quot; /&gt;&lt;Para name=&quot;dataGridView3&quot; RowCount=&quot;2&quot; ColumnCount=&quot;2&quot;&gt;&lt;Cell RowIndex=&quot;0&quot; ColumnIndex=&quot;0&quot; CellValue=&quot;0&quot; /&gt;&lt;Cell RowIndex=&quot;0&quot; ColumnIndex=&quot;1&quot; CellValue=&quot;0&quot; /&gt;&lt;/Para&gt;&lt;Para name=&quot;dataGridView2&quot; RowCount=&quot;3&quot; ColumnCount=&quot;3&quot;&gt;&lt;Cell RowIndex=&quot;0&quot; ColumnIndex=&quot;0&quot; CellValue=&quot;0&quot; /&gt;&lt;Cell RowIndex=&quot;0&quot; ColumnIndex=&quot;1&quot; CellValue=&quot;10&quot; /&gt;&lt;Cell RowIndex=&quot;0&quot; ColumnIndex=&quot;2&quot; CellValue=&quot;0&quot; /&gt;&lt;Cell RowIndex=&quot;1&quot; ColumnIndex=&quot;0&quot; CellValue=&quot;100000&quot; /&gt;&lt;Cell RowIndex=&quot;1&quot; ColumnIndex=&quot;1&quot; CellValue=&quot;10&quot; /&gt;&lt;Cell RowIndex=&quot;1&quot; ColumnIndex=&quot;2&quot; CellValue=&quot;0&quot; /&gt;&lt;/Para&gt;&lt;Para name=&quot;textBox6&quot; value=&quot; &quot; /&gt;&lt;Para name=&quot;textBox1&quot; value=&quot; &quot; /&gt;&lt;Para name=&quot;textBox10&quot; value=&quot;0&quot; /&gt;&lt;Para name=&quot;textBox5&quot; value=&quot; &quot; /&gt;&lt;Para name=&quot;checkBox2&quot; value=&quot;True&quot; /&gt;&lt;Para name=&quot;checkBox1&quot; value=&quot;False&quot; /&gt;&lt;Para name=&quot;textBox3&quot; value=&quot;0,0,0;10000,0,0&quot; /&gt;&lt;Para name=&quot;textBox4&quot; value=&quot; &quot; /&gt;&lt;Para name=&quot;textBox7&quot; value=&quot;0,10,0&quot; /&gt;&lt;/Form&gt;" />
+    <Para name="checkBox7" value="False" />
+    <Para name="textBox74" value="800" />
+    <Para name="textBox76" value=" " />
+    <Para name="textBox75" value=" " />
+    <Para name="checkBox703" value="True" />
+    <Para name="checkBox704" value="True" />
+    <Para name="checkBox13" value="False" />
+    <Para name="checkBox14" value="False" />
+    <Para name="checkBox19" value="False" />
+    <Para name="textBox71" value="5000" />
+    <Para name="textBox7" value=" " />
+    <Para name="checkBox706" value="False" />
+    <Para name="textBox708" value="5000" />
+    <Para name="checkBox11" value="False" />
+    <Para name="checkBox707" value="True" />
+    <Para name="checkBox708" value="False" />
+    <Para name="textBox44" value="0" />
+    <Para name="textBox38" value=" " />
+    <Para name="checkBox72" value="False" />
+    <Para name="checkBox18" value="False" />
+    <Para name="checkBox8" value="False" />
+    <Para name="textBox26" value="Pm" />
+    <Para name="textBox27" value="1" />
+    <Para name="checkBox004" value="False" />
+    <Para name="checkBox003" value="False" />
+    <Para name="checkBox5" value="True" />
+    <Para name="checkBox9" value="False" />
+    <Para name="checkBox77" value="False" />
+    <Para name="checkBox2" value="True" />
+    <Para name="checkBox705" value="True" />
+    <Para name="checkBox709" value="False" />
+    <Para name="checkBox3" value="True" />
+    <Para name="checkBox4" value="True" />
+    <Para name="checkBox15" value="True" />
+    <Para name="checkBox10" value="True" />
+    <Para name="checkBox20" value="False" />
+    <Para name="checkBox1" value="True" />
+    <Para name="checkBox38" value="False" />
+    <Para name="checkBox64" value="False" />
+    <Para name="textBox78" value="0" />
+    <Para name="textBox77" value="0" />
+    <Para name="textBox72" value="250" />
+    <Para name="checkBox30" value="False" />
+    <Para name="textBox46" value="200" />
+    <Para name="textBox36" value="600" />
+    <Para name="textBox35" value="600" />
+    <Para name="textBox34" value="600" />
+    <Para name="checkBox41" value="False" />
+    <Para name="checkBox37" value="False" />
+    <Para name="textBox32" value="300" />
+    <Para name="textBox33" value="300" />
+    <Para name="textBox37" value="200" />
+    <Para name="checkBox40" value="True" />
+    <Para name="checkBox16" value="False" />
+    <Para name="checkBox33" value="True" />
+    <Para name="textBox28" value="0" />
+    <Para name="textBox43" value="0" />
+    <Para name="textBox42" value="0" />
+    <Para name="textBox29" value="0" />
+    <Para name="textBox40" value="0" />
+    <Para name="textBox39" value="0" />
+    <Para name="textBox30" value="0" />
+    <Para name="checkBox49" value="True" />
+    <Para name="checkBox50" value="True" />
+    <Para name="checkBox23" value="True" />
+    <Para name="checkBox22" value="True" />
+    <Para name="checkBox74" value="False" />
+    <Para name="checkBox73" value="False" />
+    <Para name="checkBox76" value="False" />
+    <Para name="checkBox45" value="False" />
+    <Para name="textBox20" value="30" />
+    <Para name="checkBox28" value="True" />
+    <Para name="checkBox53" value="True" />
+    <Para name="checkBox54" value="True" />
+    <Para name="checkBox29" value="True" />
+    <Para name="checkBox56" value="True" />
+    <Para name="checkBox78" value="True" />
+    <Para name="checkBox63" value="True" />
+    <Para name="textBox16" value=" " />
+    <Para name="checkBox52" value="False" />
+    <Para name="textBox9" value=" " />
+    <Para name="checkBox80" value="False" />
+    <Para name="checkBox79" value="False" />
+    <Para name="textBox41" value="3.5" />
+    <Para name="checkBox32" value="False" />
+    <Para name="textBox10" value=" " />
+    <Para name="textBox25" value="24" />
+    <Para name="textBox24" value="36" />
+    <Para name="textBox15" value="270" />
+    <Para name="textBox21" value="2" />
+    <Para name="textBox14" value="270" />
+    <Para name="textBox23" value="0.5" />
+    <Para name="textBox19" value="3.5" />
+    <Para name="textBox13" value="270" />
+    <Para name="textBox22" value="1" />
+    <Para name="textBox18" value="3" />
+    <Para name="textBox12" value="80" />
+    <Para name="textBox17" value="2.5" />
+    <Para name="textBox11" value="90" />
+    <Para name="checkBox26" value="True" />
+    <Para name="checkBox27" value="True" />
+    <Para name="checkBox25" value="True" />
+    <Para name="checkBox35" value="True" />
+    <Para name="textBox82" value="500" />
+    <Para name="checkBox75" value="False" />
+    <Para name="checkBox21" value="False" />
+    <Para name="checkBox17" value="True" />
+    <Para name="checkBox57" value="False" />
+    <Para name="checkBox51" value="True" />
+    <Para name="checkBox24" value="False" />
+    <Para name="checkBox31" value="True" />
+    <Para name="textBox31" value="1" />
+    <Para name="comboBox3" value="1" />
+    <Para name="textBox5" value="800" />
+    <Para name="comboBox1" value="1" />
+    <Para name="checkBox46" value="False" />
+    <Para name="comboBox2" value="2" />
+    <Para name="checkBox42" value="True" />
+    <Para name="checkBox44" value="True" />
+    <Para name="checkBox43" value="False" />
+    <Para name="textBox8" value="1339" />
+    <Para name="textBox4" value="1395" />
+    <Para name="textBox1" value="0.2" />
+    <Para name="textBox2" value="0.0015" />
+    <Para name="textBox3" value="195000" />
+    <Para name="checkBox100" value="False" />
+    <Para name="dataGridView1" RowCount="1" ColumnCount="2" />
+    <Para name="textBox6" value="300" />
+    <Para name="checkBox423" value="False" />
+    <Para name="textBox410" value="0" />
+    <Para name="checkBox422" value="False" />
+    <Para name="checkBox421" value="False" />
+    <Para name="checkBox419" value="True" />
+    <Para name="textBox413" value="0" />
+    <Para name="textBox412" value="0" />
+    <Para name="textBox411" value="100" />
+    <Para name="checkBox451" value="False" />
+    <Para name="checkBox412" value="False" />
+    <Para name="checkBox411" value="True" />
+    <Para name="checkBox414" value="False" />
+    <Para name="checkBox410" value="True" />
+    <Para name="comboBox6" value="0" />
+    <Para name="textBox404" value="400" />
+    <Para name="textBox406" value="400" />
+    <Para name="checkBox429" value="False" />
+    <Para name="checkBox66" value="False" />
+    <Para name="checkBox416" value="False" />
+    <Para name="checkBox415" value="True" />
+    <Para name="comboBox4" value="0" />
+    <Para name="textBox405" value="400" />
+    <Para name="checkBox420" value="False" />
+    <Para name="checkBox406" value="False" />
+    <Para name="checkBox405" value="False" />
+    <Para name="checkBox402" value="False" />
+    <Para name="checkBox303" value="True" />
+    <Para name="checkBox505" value="True" />
+    <Para name="checkBox404" value="True" />
+    <Para name="checkBox407" value="False" />
+    <Para name="checkBox408" value="False" />
+    <Para name="checkBox409" value="True" />
+    <Para name="comboBox402" value="0" />
+    <Para name="comboBox403" value="0" />
+    <Para name="comboBox401" value="0" />
+    <Para name="textBox403" value="150" />
+    <Para name="checkBox403" value="False" />
+    <Para name="textBox401" value="4" />
+    <Para name="textBox402" value="4" />
+    <Para name="checkBox424" value="False" />
+    <Para name="checkBox455" value="False" />
+    <Para name="checkBox401" value="True" />
+    <Para name="textBox81" value="300" />
+    <Para name="textBox80" value="600" />
+    <Para name="textBox79" value="0" />
+    <Para name="checkBox60" value="True" />
+    <Para name="checkBox69" value="True" />
+    <Para name="checkBox70" value="True" />
+    <Para name="checkBox71" value="False" />
+    <Para name="checkBox68" value="False" />
+    <Para name="checkBox61" value="True" />
+    <Para name="checkBox39" value="True" />
+    <Para name="checkBox67" value="True" />
+    <Para name="textBox66" value="200" />
+    <Para name="textBox69" value="100" />
+    <Para name="textBox68" value="600" />
+    <Para name="textBox70" value="100" />
+    <Para name="textBox67" value="600" />
+    <Para name="textBox65" value="100" />
+    <Para name="textBox64" value="100" />
+    <Para name="textBox63" value="600" />
+    <Para name="textBox62" value="600" />
+    <Para name="textBox61" value="200" />
+    <Para name="textBox58" value="0" />
+    <Para name="textBox60" value="0" />
+    <Para name="textBox59" value="0" />
+    <Para name="checkBox001" value="False" />
+    <Para name="checkBox59" value="False" />
+    <Para name="checkBox65" value="False" />
+    <Para name="checkBox36" value="False" />
+    <Para name="checkBox34" value="False" />
+    <Para name="checkBox48" value="False" />
+    <Para name="checkBox55" value="False" />
+    <Para name="checkBox58" value="True" />
+    <Para name="checkBox62" value="False" />
+    <Para name="checkBox47" value="True" />
+    <Para name="checkBox82" value="False" />
+    <Para name="checkBox83" value="False" />
+    <Para name="textBoxBeamHb" value=" " />
+    <Para name="textBoxBeamHa" value=" " />
+  </Form>
+  <Form name="标准截面" version="2.0">
+    <Para name="textBox37" value="200" />
+    <Para name="textBox38" value="200" />
+    <Para name="checkBox7" value="False" />
+    <Para name="checkBox3" value="False" />
+    <Para name="textBox39" value="350" />
+    <Para name="textBoxCornerModify" value=" " />
+    <Para name="textBox48" value=" " />
+    <Para name="textBox49" value=" " />
+    <Para name="checkBoxCurve" value="False" />
+    <Para name="textBox47" value="500" />
+    <Para name="textBox46" value="400" />
+    <Para name="textBox44" value="600" />
+    <Para name="textBox40" value="0" />
+    <Para name="textBox43" value="0" />
+    <Para name="textBox41" value="0" />
+    <Para name="textBox42" value="0" />
+    <Para name="checkBox8" value="False" />
+    <Para name="checkBox14" value="False" />
+    <Para name="checkBox12" value="False" />
+    <Para name="checkBox15" value="False" />
+    <Para name="checkBox13" value="False" />
+    <Para name="checkBox6" value="True" />
+    <Para name="checkBox2" value="True" />
+    <Para name="checkBox9" value="False" />
+    <Para name="checkBox10" value="True" />
+    <Para name="textBox34" value="600" />
+    <Para name="textBox35" value="200" />
+    <Para name="checkBox11" value="False" />
+    <Para name="textBox14" value="250" />
+    <Para name="textBox7" value="500" />
+    <Para name="textBox13" value="300" />
+    <Para name="textBox12" value="300" />
+    <Para name="textBox8" value="300" />
+    <Para name="textBox9" value="600" />
+    <Para name="textBox10" value="250" />
+    <Para name="textBox11" value="400" />
+    <Para name="checkBox4" value="False" />
+    <Para name="textBox16" value="700" />
+    <Para name="textBox17" value="700" />
+    <Para name="checkBox5" value="False" />
+    <Para name="textBox6" value="2*4000" />
+    <Para name="textBox5" value="550" />
+    <Para name="textBox36" value="400" />
+    <Para name="textBox45" value="500" />
+    <Para name="textBoxScale" value="80" />
+    <Para name="textBox26" value="450" />
+    <Para name="textBox28" value="450" />
+    <Para name="textBox23" value="450" />
+    <Para name="textBox19" value="2200" />
+    <Para name="textBox30" value="2900" />
+    <Para name="textBox29" value="2900" />
+    <Para name="checkBox1" value="True" />
+    <Para name="textBox20" value="250" />
+    <Para name="textBox24" value="2200" />
+    <Para name="textBox25" value="250" />
+    <Para name="textBox22" value="0" />
+    <Para name="textBox21" value="450" />
+    <Para name="textBox27" value="0" />
+    <Para name="textBox33" value="0.000" />
+    <Para name="textBox32" value="0.000" />
+    <Para name="textBox18" value="8400" />
+    <Para name="textBox31" value="8400" />
+    <Para name="textBox1" value="2000" />
+    <Para name="textBox2" value="0.015" />
+    <Para name="textBox15" value="250" />
+    <Para name="textBox3" value="0.015" />
+    <Para name="textBox4" value="250" />
+  </Form>
+  <Form name="纵向数据" version="2.0">
+    <Para name="dataGridView1" RowCount="3" ColumnCount="29">
+      <Cell RowIndex="0" ColumnIndex="0" CellValue="变高半跨" />
+      <Cell RowIndex="0" ColumnIndex="1" CellValue="2000" />
+      <Cell RowIndex="0" ColumnIndex="2" CellValue="3000" />
+      <Cell RowIndex="0" ColumnIndex="3" CellValue="0" />
+      <Cell RowIndex="0" ColumnIndex="4" CellValue="4000" />
+      <Cell RowIndex="0" ColumnIndex="5" CellValue="0" />
+      <Cell RowIndex="0" ColumnIndex="6" CellValue="20000" />
+      <Cell RowIndex="0" ColumnIndex="7" CellValue="0" />
+      <Cell RowIndex="0" ColumnIndex="8" CellValue="4000" />
+      <Cell RowIndex="0" ColumnIndex="9" CellValue="0" />
+      <Cell RowIndex="0" ColumnIndex="10" CellValue="20000" />
+      <Cell RowIndex="0" ColumnIndex="11" CellValue="500" />
+      <Cell RowIndex="0" ColumnIndex="12" CellValue="500" />
+      <Cell RowIndex="0" ColumnIndex="13" CellValue="1500" />
+      <Cell RowIndex="0" ColumnIndex="14" CellValue="1500" />
+      <Cell RowIndex="0" ColumnIndex="15" CellValue="20000" />
+      <Cell RowIndex="0" ColumnIndex="16" CellValue="20000" />
+      <Cell RowIndex="0" ColumnIndex="17" CellValue="1000" />
+      <Cell RowIndex="0" ColumnIndex="18" CellValue="1000" />
+      <Cell RowIndex="0" ColumnIndex="19" CellValue="600" />
+      <Cell RowIndex="0" ColumnIndex="20" CellValue="300" />
+      <Cell RowIndex="0" ColumnIndex="21" CellValue="0" />
+      <Cell RowIndex="0" ColumnIndex="22" CellValue="0" />
+      <Cell RowIndex="0" ColumnIndex="23" CellValue="600" />
+      <Cell RowIndex="0" ColumnIndex="24" CellValue="300" />
+      <Cell RowIndex="0" ColumnIndex="25" CellValue="600" />
+      <Cell RowIndex="0" ColumnIndex="26" CellValue="300" />
+      <Cell RowIndex="0" ColumnIndex="27" CellValue="" />
+      <Cell RowIndex="0" ColumnIndex="28" CellValue="" />
+      <Cell RowIndex="1" ColumnIndex="0" CellValue="变高全跨" />
+      <Cell RowIndex="1" ColumnIndex="1" CellValue="2000" />
+      <Cell RowIndex="1" ColumnIndex="2" CellValue="3000" />
+      <Cell RowIndex="1" ColumnIndex="3" CellValue="0" />
+      <Cell RowIndex="1" ColumnIndex="4" CellValue="20000" />
+      <Cell RowIndex="1" ColumnIndex="5" CellValue="0" />
+      <Cell RowIndex="1" ColumnIndex="6" CellValue="20000" />
+      <Cell RowIndex="1" ColumnIndex="7" CellValue="0" />
+      <Cell RowIndex="1" ColumnIndex="8" CellValue="20000" />
+      <Cell RowIndex="1" ColumnIndex="9" CellValue="0" />
+      <Cell RowIndex="1" ColumnIndex="10" CellValue="20000" />
+      <Cell RowIndex="1" ColumnIndex="11" CellValue="500" />
+      <Cell RowIndex="1" ColumnIndex="12" CellValue="500" />
+      <Cell RowIndex="1" ColumnIndex="13" CellValue="1500" />
+      <Cell RowIndex="1" ColumnIndex="14" CellValue="1500" />
+      <Cell RowIndex="1" ColumnIndex="15" CellValue="20000" />
+      <Cell RowIndex="1" ColumnIndex="16" CellValue="20000" />
+      <Cell RowIndex="1" ColumnIndex="17" CellValue="1000" />
+      <Cell RowIndex="1" ColumnIndex="18" CellValue="1000" />
+      <Cell RowIndex="1" ColumnIndex="19" CellValue="600" />
+      <Cell RowIndex="1" ColumnIndex="20" CellValue="300" />
+      <Cell RowIndex="1" ColumnIndex="21" CellValue="600" />
+      <Cell RowIndex="1" ColumnIndex="22" CellValue="300" />
+      <Cell RowIndex="1" ColumnIndex="23" CellValue="600" />
+      <Cell RowIndex="1" ColumnIndex="24" CellValue="300" />
+      <Cell RowIndex="1" ColumnIndex="25" CellValue="600" />
+      <Cell RowIndex="1" ColumnIndex="26" CellValue="300" />
+      <Cell RowIndex="1" ColumnIndex="27" CellValue="" />
+      <Cell RowIndex="1" ColumnIndex="28" CellValue="" />
+      <Cell RowIndex="2" ColumnIndex="0" CellValue="变高半跨" />
+      <Cell RowIndex="2" ColumnIndex="1" CellValue="2000" />
+      <Cell RowIndex="2" ColumnIndex="2" CellValue="0" />
+      <Cell RowIndex="2" ColumnIndex="3" CellValue="0" />
+      <Cell RowIndex="2" ColumnIndex="4" CellValue="20000" />
+      <Cell RowIndex="2" ColumnIndex="5" CellValue="0" />
+      <Cell RowIndex="2" ColumnIndex="6" CellValue="4000" />
+      <Cell RowIndex="2" ColumnIndex="7" CellValue="0" />
+      <Cell RowIndex="2" ColumnIndex="8" CellValue="20000" />
+      <Cell RowIndex="2" ColumnIndex="9" CellValue="0" />
+      <Cell RowIndex="2" ColumnIndex="10" CellValue="4000" />
+      <Cell RowIndex="2" ColumnIndex="11" CellValue="500" />
+      <Cell RowIndex="2" ColumnIndex="12" CellValue="500" />
+      <Cell RowIndex="2" ColumnIndex="13" CellValue="1500" />
+      <Cell RowIndex="2" ColumnIndex="14" CellValue="1500" />
+      <Cell RowIndex="2" ColumnIndex="15" CellValue="20000" />
+      <Cell RowIndex="2" ColumnIndex="16" CellValue="20000" />
+      <Cell RowIndex="2" ColumnIndex="17" CellValue="1000" />
+      <Cell RowIndex="2" ColumnIndex="18" CellValue="1000" />
+      <Cell RowIndex="2" ColumnIndex="19" CellValue="600" />
+      <Cell RowIndex="2" ColumnIndex="20" CellValue="300" />
+      <Cell RowIndex="2" ColumnIndex="21" CellValue="600" />
+      <Cell RowIndex="2" ColumnIndex="22" CellValue="300" />
+      <Cell RowIndex="2" ColumnIndex="23" CellValue="600" />
+      <Cell RowIndex="2" ColumnIndex="24" CellValue="300" />
+      <Cell RowIndex="2" ColumnIndex="25" CellValue="0" />
+      <Cell RowIndex="2" ColumnIndex="26" CellValue="0" />
+      <Cell RowIndex="2" ColumnIndex="27" CellValue="" />
+      <Cell RowIndex="2" ColumnIndex="28" CellValue="" />
+    </Para>
+    <Para name="textBox102" value="2*5000 2*4000 3500" />
+    <Para name="textBox38" value=" " />
+    <Para name="textBox37" value=" " />
+    <Para name="checkBox1002" value="False" />
+    <Para name="textBox17" value="4000" />
+    <Para name="dataGridView1001" RowCount="3" ColumnCount="1">
+      <Cell RowIndex="0" ColumnIndex="0" CellValue="0.00000000,0.00000000,0.000000000000;110010.00000000,0.00000000,0.000000000000" />
+      <Cell RowIndex="1" ColumnIndex="0" CellValue="-10.00000000,8400.00000000,0.000000000000;110010.00000000,8400.00000000,0.000000000000" />
+      <Cell RowIndex="2" ColumnIndex="0" CellValue="-10.00000000,-8400.00000000,0.000000000000;110010.00000000,-8400.00000000,0.000000000000" />
+    </Para>
+    <Para name="dataGridView1002" RowCount="4" ColumnCount="1">
+      <Cell RowIndex="0" ColumnIndex="0" CellValue="0.00000000,16810.00000000,0.000000000000;0.00000000,-16810.00000000,0.000000000000" />
+      <Cell RowIndex="1" ColumnIndex="0" CellValue="30000.00000000,16810.00000000,0.000000000000;30000.00000000,-16810.00000000,0.000000000000" />
+      <Cell RowIndex="2" ColumnIndex="0" CellValue="80000.00000000,16810.00000000,0.000000000000;80000.00000000,-16810.00000000,0.000000000000" />
+      <Cell RowIndex="3" ColumnIndex="0" CellValue="110000.00000000,16810.00000000,0.000000000000;110000.00000000,-16810.00000000,0.000000000000" />
+    </Para>
+    <Para name="dataGridView1003" RowCount="4" ColumnCount="1">
+      <Cell RowIndex="0" ColumnIndex="0" CellValue="-10.00000000,-6200.00000000,0.000000000000;110010.00000000,-6200.00000000,0.000000000000" />
+      <Cell RowIndex="1" ColumnIndex="0" CellValue="-10.00000000,-1800.00000000,0.000000000000;110010.00000000,-1800.00000000,0.000000000000" />
+      <Cell RowIndex="2" ColumnIndex="0" CellValue="-10.00000000,2200.00000000,0.000000000000;110010.00000000,2200.00000000,0.000000000000" />
+      <Cell RowIndex="3" ColumnIndex="0" CellValue="-10.00000000,6200.00000000,0.000000000000;110010.00000000,6200.00000000,0.000000000000" />
+    </Para>
+    <Para name="textBox1001" value=" " />
+    <Para name="checkBox4" value="False" />
+    <Para name="comboBox5" value="0" />
+    <Para name="comboBox4" value="0" />
+    <Para name="checkBox1001" value="False" />
+    <Para name="textBox106" value=" " />
+    <Para name="textBox105" value=" " />
+    <Para name="textBox40" value="0" />
+    <Para name="textBox39" value="0" />
+    <Para name="comboBox2" value="0" />
+    <Para name="comboBox1" value="0" />
+    <Para name="textBox36" value="150" />
+    <Para name="textBox34" value="150" />
+    <Para name="textBox35" value="300" />
+    <Para name="textBox33" value="300" />
+    <Para name="checkBox9" value="False" />
+    <Para name="checkBox8" value="True" />
+    <Para name="checkBox1" value="False" />
+    <Para name="textBoxPosDM" value=" " />
+    <Para name="textBox21" value="600" />
+    <Para name="textBox28" value="300" />
+    <Para name="textBox26" value="600" />
+    <Para name="textBox27" value="300" />
+    <Para name="textBox8" value="1000" />
+    <Para name="textBox10" value="1000" />
+    <Para name="textBox24" value="0" />
+    <Para name="textBox25" value="0" />
+    <Para name="textBox7" value="1000" />
+    <Para name="textBox23" value="300" />
+    <Para name="textBox22" value="600" />
+    <Para name="checkBox3" value="True" />
+    <Para name="textBox19" value="0" />
+    <Para name="textBox18" value="4000" />
+    <Para name="textBox15" value="600" />
+    <Para name="textBox16" value="2000" />
+    <Para name="textBox13" value="500" />
+    <Para name="textBox11" value="40" />
+    <Para name="textBox14" value="80" />
+    <Para name="textBox12" value="40" />
+    <Para name="textBox30" value="20000" />
+    <Para name="textBox29" value="20000" />
+    <Para name="textBox31" value="20000" />
+    <Para name="textBox32" value="0" />
+    <Para name="textBox120" value="20000" />
+    <Para name="textBox119" value="2" />
+    <Para name="textBox121" value="20000" />
+    <Para name="textBox122" value="0" />
+    <Para name="textBox116" value="1500" />
+    <Para name="textBox117" value="20000" />
+    <Para name="textBox118" value="2" />
+    <Para name="textBox204" value="900" />
+    <Para name="textBox203" value="900" />
+    <Para name="textBox302" value="3000" />
+    <Para name="radioButton3" value="True" />
+    <Para name="radioButton2" value="False" />
+    <Para name="radioButton1" value="False" />
+    <Para name="textBox303" value="2000" />
+    <Para name="textBox1" value="750" />
+    <Para name="textBox5" value="500" />
+    <Para name="textBox3" value="700" />
+    <Para name="textBox202" value="900" />
+    <Para name="textBox201" value="900" />
+    <Para name="textBox301" value="2000" />
+    <Para name="textBox6" value="500" />
+    <Para name="textBox4" value="700" />
+    <Para name="textBox2" value="750" />
+    <Para name="textBoxScale" value="150" />
+    <Para name="textBox104" value="-2500 2500;-2300 2300;-2300 2300;-2600 2600" />
+    <Para name="textBox101" value="30000 50000 30000" />
+    <Para name="textBox103" value="0" />
+    <Para name="comboBox6" value="0" />
+    <Para name="textBox20" value="0" />
+    <Para name="comboBox3" value="0" />
+    <Para name="checkBox6" value="True" />
+    <Para name="textBox9" value="600" />
+    <Para name="checkBox5" value="True" />
+    <Para name="checkBox11" value="False" />
+    <Para name="checkBox12" value="True" />
+  </Form>
+  <Form name="腹板钢束" version="2.0">
+    <Para name="dataGridView3" RowCount="1" ColumnCount="25" />
+    <Para name="dataGridView1" RowCount="0" ColumnCount="12" />
+    <Para name="dataGridView2" RowCount="1" ColumnCount="25" />
+    <Para name="checkBox1" value="False" />
+  </Form>
+  <Form name="顶底钢束" version="2.0">
+    <Para name="checkBox8" value="False" />
+    <Para name="dataGridView2" RowCount="1" ColumnCount="14" />
+    <Para name="textBoxScale1" value="150" />
+    <Para name="checkBox7" value="False" />
+    <Para name="textBox2" value=" " />
+    <Para name="textBox1" value=" " />
+    <Para name="textBoxScale2" value="80" />
+    <Para name="dataGridView12" RowCount="1" ColumnCount="21" />
+    <Para name="dataGridView11" RowCount="1" ColumnCount="19" />
+  </Form>
+  <Form name="平弯数据" version="2.0">
+    <Para name="dataGridView4" RowCount="1" ColumnCount="7" />
+    <Para name="dataGridView2" RowCount="1" ColumnCount="9" />
+  </Form>
+  <Form name="钢筋数据" version="2.0">
+    <Para name="textBox47" value="4000" />
+    <Para name="textBox46" value="4000" />
+    <Para name="textBox45" value="2000" />
+    <Para name="textBox108" value="30" />
+    <Para name="comboBox8" value="1" />
+    <Para name="textBox39" value="0" />
+    <Para name="checkBox27" value="False" />
+    <Para name="textBox37" value="10000" />
+    <Para name="textBox42" value="800" />
+    <Para name="textBox43" value="1000" />
+    <Para name="textBox44" value="1200" />
+    <Para name="textBox38" value="5000" />
+    <Para name="textBox40" value="1000" />
+    <Para name="comboBox7" value="0" />
+    <Para name="checkBox20" value="False" />
+    <Para name="checkBox22" value="False" />
+    <Para name="checkBox24" value="False" />
+    <Para name="checkBox23" value="False" />
+    <Para name="comboBox6" value="0" />
+    <Para name="checkBox4" value="False" />
+    <Para name="checkBox11" value="False" />
+    <Para name="checkBox12" value="False" />
+    <Para name="checkBox13" value="True" />
+    <Para name="textBox26" value="150" />
+    <Para name="textBox28" value="150" />
+    <Para name="textBox29" value="100" />
+    <Para name="textBox5" value="100" />
+    <Para name="textBox6" value="100" />
+    <Para name="textBox30" value="150" />
+    <Para name="textBox31" value="100" />
+    <Para name="textBox27" value="150" />
+    <Para name="textBox110" value="25" />
+    <Para name="textBox109" value="25" />
+    <Para name="comboBox2" value="0" />
+    <Para name="textBox36" value="400" />
+    <Para name="textBox32" value="3000" />
+    <Para name="checkBox14" value="False" />
+    <Para name="checkBox16" value="False" />
+    <Para name="checkBox26" value="False" />
+    <Para name="checkBox17" value="True" />
+    <Para name="checkBox15" value="True" />
+    <Para name="checkBox1" value="False" />
+    <Para name="checkBox5" value="False" />
+    <Para name="checkBox2" value="False" />
+    <Para name="checkBox6" value="False" />
+    <Para name="textBox101" value="40" />
+    <Para name="textBox34" value="600" />
+    <Para name="textBox24" value="600" />
+    <Para name="textBox25" value="600" />
+    <Para name="textBox23" value="600" />
+    <Para name="textBox22" value="600" />
+    <Para name="textBox12" value="150" />
+    <Para name="textBox17" value="150" />
+    <Para name="textBox35" value="150" />
+    <Para name="textBox11" value="150" />
+    <Para name="textBox10" value="3" />
+    <Para name="textBox15" value="150" />
+    <Para name="textBox9" value="5" />
+    <Para name="textBox8" value="5" />
+    <Para name="textBox16" value="150" />
+    <Para name="textBox13" value="150" />
+    <Para name="textBox14" value="150" />
+    <Para name="textBoxScale2" value="100" />
+    <Para name="dataGridViewSteelTable" RowCount="61" ColumnCount="5">
+      <Cell RowIndex="0" ColumnIndex="0" CellValue="101" />
+      <Cell RowIndex="0" ColumnIndex="1" CellValue="1" />
+      <Cell RowIndex="0" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="0" ColumnIndex="3" CellValue="16" />
+      <Cell RowIndex="0" ColumnIndex="4" CellValue="点筋-顶缘箱室范围点钢筋" />
+      <Cell RowIndex="1" ColumnIndex="0" CellValue="102" />
+      <Cell RowIndex="1" ColumnIndex="1" CellValue="2" />
+      <Cell RowIndex="1" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="1" ColumnIndex="3" CellValue="16" />
+      <Cell RowIndex="1" ColumnIndex="4" CellValue="点筋-底缘箱室范围点钢筋" />
+      <Cell RowIndex="2" ColumnIndex="0" CellValue="103" />
+      <Cell RowIndex="2" ColumnIndex="1" CellValue="1a" />
+      <Cell RowIndex="2" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="2" ColumnIndex="3" CellValue="28" />
+      <Cell RowIndex="2" ColumnIndex="4" CellValue="点筋-顶缘腹板内点钢筋" />
+      <Cell RowIndex="3" ColumnIndex="0" CellValue="104" />
+      <Cell RowIndex="3" ColumnIndex="1" CellValue="2a" />
+      <Cell RowIndex="3" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="3" ColumnIndex="3" CellValue="28" />
+      <Cell RowIndex="3" ColumnIndex="4" CellValue="点筋-底缘腹板内点钢筋" />
+      <Cell RowIndex="8" ColumnIndex="0" CellValue="109" />
+      <Cell RowIndex="8" ColumnIndex="1" CellValue="3" />
+      <Cell RowIndex="8" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="8" ColumnIndex="3" CellValue="20" />
+      <Cell RowIndex="8" ColumnIndex="4" CellValue="点筋-顶缘并置加强钢筋" />
+      <Cell RowIndex="9" ColumnIndex="0" CellValue="110" />
+      <Cell RowIndex="9" ColumnIndex="1" CellValue="4" />
+      <Cell RowIndex="9" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="9" ColumnIndex="3" CellValue="20" />
+      <Cell RowIndex="9" ColumnIndex="4" CellValue="点筋-底缘并置加强钢筋" />
+      <Cell RowIndex="10" ColumnIndex="0" CellValue="201" />
+      <Cell RowIndex="10" ColumnIndex="1" CellValue="3" />
+      <Cell RowIndex="10" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="10" ColumnIndex="3" CellValue="16" />
+      <Cell RowIndex="10" ColumnIndex="4" CellValue="点筋-梁悬臂下缘点钢筋" />
+      <Cell RowIndex="11" ColumnIndex="0" CellValue="202" />
+      <Cell RowIndex="11" ColumnIndex="1" CellValue="3" />
+      <Cell RowIndex="11" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="11" ColumnIndex="3" CellValue="16" />
+      <Cell RowIndex="11" ColumnIndex="4" CellValue="点筋-边腹板外侧点筋" />
+      <Cell RowIndex="14" ColumnIndex="0" CellValue="301" />
+      <Cell RowIndex="14" ColumnIndex="1" CellValue="11" />
+      <Cell RowIndex="14" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="14" ColumnIndex="3" CellValue="16" />
+      <Cell RowIndex="14" ColumnIndex="4" CellValue="线筋-顶缘线钢筋" />
+      <Cell RowIndex="15" ColumnIndex="0" CellValue="302" />
+      <Cell RowIndex="15" ColumnIndex="1" CellValue="12" />
+      <Cell RowIndex="15" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="15" ColumnIndex="3" CellValue="16" />
+      <Cell RowIndex="15" ColumnIndex="4" CellValue="线筋-箱室内上水平线钢筋" />
+      <Cell RowIndex="16" ColumnIndex="0" CellValue="303" />
+      <Cell RowIndex="16" ColumnIndex="1" CellValue="13" />
+      <Cell RowIndex="16" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="16" ColumnIndex="3" CellValue="16" />
+      <Cell RowIndex="16" ColumnIndex="4" CellValue="线筋-箱室内下水平线钢筋" />
+      <Cell RowIndex="17" ColumnIndex="0" CellValue="304" />
+      <Cell RowIndex="17" ColumnIndex="1" CellValue="14" />
+      <Cell RowIndex="17" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="17" ColumnIndex="3" CellValue="16" />
+      <Cell RowIndex="17" ColumnIndex="4" CellValue="线筋-底缘线钢筋" />
+      <Cell RowIndex="18" ColumnIndex="0" CellValue="305" />
+      <Cell RowIndex="18" ColumnIndex="1" CellValue="17" />
+      <Cell RowIndex="18" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="18" ColumnIndex="3" CellValue="16" />
+      <Cell RowIndex="18" ColumnIndex="4" CellValue="线筋-梁悬臂下缘线钢筋" />
+      <Cell RowIndex="21" ColumnIndex="0" CellValue="401" />
+      <Cell RowIndex="21" ColumnIndex="1" CellValue="16" />
+      <Cell RowIndex="21" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="21" ColumnIndex="3" CellValue="16" />
+      <Cell RowIndex="21" ColumnIndex="4" CellValue="箍筋-中腹板箍筋-腹板标准段" />
+      <Cell RowIndex="23" ColumnIndex="0" CellValue="402" />
+      <Cell RowIndex="23" ColumnIndex="1" CellValue="16a" />
+      <Cell RowIndex="23" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="23" ColumnIndex="3" CellValue="16" />
+      <Cell RowIndex="23" ColumnIndex="4" CellValue="箍筋-中腹板箍筋-腹板加宽段" />
+      <Cell RowIndex="29" ColumnIndex="0" CellValue="405" />
+      <Cell RowIndex="29" ColumnIndex="1" CellValue="18" />
+      <Cell RowIndex="29" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="29" ColumnIndex="3" CellValue="16" />
+      <Cell RowIndex="29" ColumnIndex="4" CellValue="箍筋-边腹板内侧竖直钢筋" />
+      <Cell RowIndex="45" ColumnIndex="0" CellValue="602" />
+      <Cell RowIndex="45" ColumnIndex="1" CellValue="20" />
+      <Cell RowIndex="45" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="45" ColumnIndex="3" CellValue="12" />
+      <Cell RowIndex="45" ColumnIndex="4" CellValue="倒角-箱室内上中倒角线钢筋" />
+      <Cell RowIndex="47" ColumnIndex="0" CellValue="604" />
+      <Cell RowIndex="47" ColumnIndex="1" CellValue="22" />
+      <Cell RowIndex="47" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="47" ColumnIndex="3" CellValue="12" />
+      <Cell RowIndex="47" ColumnIndex="4" CellValue="倒角-箱室内下中倒角线钢筋" />
+      <Cell RowIndex="55" ColumnIndex="0" CellValue="708" />
+      <Cell RowIndex="55" ColumnIndex="1" CellValue="28" />
+      <Cell RowIndex="55" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="55" ColumnIndex="3" CellValue="12" />
+      <Cell RowIndex="55" ColumnIndex="4" CellValue="横梁与腹板的倒角钢筋" />
+      <Cell RowIndex="56" ColumnIndex="0" CellValue="709" />
+      <Cell RowIndex="56" ColumnIndex="1" CellValue="29" />
+      <Cell RowIndex="56" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="56" ColumnIndex="3" CellValue="12" />
+      <Cell RowIndex="56" ColumnIndex="4" CellValue="横梁与腹板的倒角钢筋" />
+      <Cell RowIndex="57" ColumnIndex="0" CellValue="1002" />
+      <Cell RowIndex="57" ColumnIndex="1" CellValue="4" />
+      <Cell RowIndex="57" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="57" ColumnIndex="3" CellValue="12" />
+      <Cell RowIndex="57" ColumnIndex="4" CellValue="梁断面内侧纵向钢筋" />
+      <Cell RowIndex="58" ColumnIndex="0" CellValue="1005" />
+      <Cell RowIndex="58" ColumnIndex="1" CellValue="4" />
+      <Cell RowIndex="58" ColumnIndex="2" CellValue="HRB400" />
+      <Cell RowIndex="58" ColumnIndex="3" CellValue="12" />
+      <Cell RowIndex="58" ColumnIndex="4" CellValue="钩子钢筋" />
+    </Para>
+    <Para name="textBoxDM" value=" " />
+    <Para name="checkBox3" value="True" />
+    <Para name="textBox2" value="4000" />
+    <Para name="textBox4" value="100" />
+    <Para name="textBox3" value="150" />
+    <Para name="textBox1" value="4000" />
+    <Para name="textBoxScale1" value="100" />
+    <Para name="comboBox5" value="-1" />
+    <Para name="checkBox19" value="False" />
+    <Para name="comboBox3" value="0" />
+    <Para name="textBox41" value="0" />
+    <Para name="textBox51" value=" " />
+    <Para name="comboBox4" value="-1" />
+    <Para name="textBox7" value=" " />
+    <Para name="checkBox9" value="False" />
+    <Para name="textBox21" value=" " />
+    <Para name="checkBox8" value="False" />
+    <Para name="textBox20" value=" " />
+    <Para name="textBox33" value=" " />
+    <Para name="textBox18" value=" " />
+    <Para name="textBox19" value=" " />
+    <Para name="checkBox303" value="False" />
+    <Para name="checkBox404" value="False" />
+    <Para name="checkBox505" value="False" />
+    <Para name="checkBox21" value="False" />
+    <Para name="checkBox18" value="False" />
+    <Para name="checkBox7" value="False" />
+    <Para name="checkBox10" value="False" />
+    <Para name="textBoxScale3" value="40" />
+    <Para name="checkBox25" value="True" />
+  </Form>
+  <Form name="结构计算" version="2.0">
+    <Para name="textBox31" value="1000" />
+    <Para name="checkBox15" value="False" />
+    <Para name="textBox25" value="2500" />
+    <Para name="textBox30" value="500" />
+    <Para name="textBox26" value="12500" />
+    <Para name="textBox28" value="1000" />
+    <Para name="textBox27" value="20000" />
+    <Para name="textBox4" value="0.2" />
+    <Para name="textBox14" value="0.03" />
+    <Para name="textBox5" value="0.0015" />
+    <Para name="checkBox16" value="True" />
+    <Para name="checkBox101" value="False" />
+    <Para name="textBox17" value="0" />
+    <Para name="textBox18" value="0" />
+    <Para name="checkBox10" value="True" />
+    <Para name="dataGridView2" RowCount="0" ColumnCount="7" />
+    <Para name="checkBox20" value="False" />
+    <Para name="checkBox18" value="False" />
+    <Para name="textBox24" value="0" />
+    <Para name="textBox23" value="0" />
+    <Para name="checkBox12" value="False" />
+    <Para name="checkBox13" value="False" />
+    <Para name="checkBox11" value="False" />
+    <Para name="textBox22" value="0" />
+    <Para name="textBox21" value="0" />
+    <Para name="checkBox3" value="False" />
+    <Para name="checkBox5" value="False" />
+    <Para name="checkBox26" value="True" />
+    <Para name="checkBox7" value="False" />
+    <Para name="checkBox6" value="False" />
+    <Para name="checkBox9" value="True" />
+    <Para name="checkBox14" value="False" />
+    <Para name="checkBox17" value="False" />
+    <Para name="checkBox19" value="False" />
+    <Para name="checkBox2" value="True" />
+    <Para name="checkBox1" value="False" />
+    <Para name="checkBox4" value="False" />
+    <Para name="textBox16" value=" " />
+    <Para name="textBox19" value="0" />
+    <Para name="dataGridView1" RowCount="1" ColumnCount="3" />
+    <Para name="checkBox8" value="False" />
+    <Para name="textBox29" value="3.1" />
+    <Para name="textBox13" value="1.9" />
+    <Para name="textBox20" value="3" />
+    <Para name="textBox12" value="0.01" />
+    <Para name="textBox11" value="2.75" />
+    <Para name="textBox10" value="7" />
+    <Para name="textBox3" value="20" />
+    <Para name="textBox15" value="30" />
+    <Para name="textBox1" value="1000" />
+    <Para name="textBox2" value="4.42" />
+    <Para name="textBox9" value="5.5" />
+    <Para name="textBox8" value="14" />
+    <Para name="textBox7" value="20" />
+    <Para name="textBox6" value="20" />
+    <Para name="comboBox1" value="-1" combobox_text="" />
+    <Para name="comboBoxC2" value="-1" combobox_text="" />
+  </Form>
+</Entity>
